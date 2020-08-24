@@ -197,7 +197,7 @@ fn main() {
     let spec_file = path.to_str().unwrap();
     std::env::set_var("SPEC_FILE", spec_file);
 
-    let _ = simplelog::SimpleLogger::init(simplelog::LevelFilter::Info, simplelog::Config::default());
+    let _ = simplelog::SimpleLogger::init(simplelog::LevelFilter::Debug, simplelog::Config::default());
 
     let iso_spec = iso8583_rs::iso8583::iso_spec::spec("");
 

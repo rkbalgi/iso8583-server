@@ -190,9 +190,9 @@ dependencies = [
 
 [[package]]
 name = "iso8583_rs"
-version = "0.1.9"
+version = "0.1.10"
 source = "registry+https://github.com/rust-lang/crates.io-index"
-checksum = "10dee361fc6a2fc113bceaf8df251cb63ed9c2ba47b2367ed995695d549a6abd"
+checksum = "06057d8fd875a537051a59faa0f7bd22921fd42321be7b8d3babe1c8012f09f4"
 dependencies = [
  "block-modes",
  "byteorder",
