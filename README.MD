@@ -1,4 +1,4 @@
-A demo ISO server built using crate iso8583_rs (https://crates.io/crates/iso8583_rs)
+A demo ISO8583 server built using crate iso8583_rs (https://crates.io/crates/iso8583_rs)
 
 Please see https://github.com/rkbalgi/iso8583_rs and https://crates.io/crates/iso8583_rs for additional documentation/reference
 
